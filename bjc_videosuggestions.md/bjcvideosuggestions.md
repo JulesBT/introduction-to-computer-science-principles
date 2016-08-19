@@ -199,7 +199,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - [Multi Touch Apps and Toolkits](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=32m0s) **Useful for Classroom Instruction**
 
 
-* [BJC Lecture 15:) Artificial Intelligence- Anna Rafferty](https://www.youtube.com/watch?v=_xcGWx3eDnw)
+* [BJC Lecture 15: Artificial Intelligence- Anna Rafferty](https://www.youtube.com/watch?v=_xcGWx3eDnw)
  -Anna Rafferty 0:00-1:00
  - Definition of AI 1:00-1:48
  - John McCarthy AI definition 1:50-2:30
@@ -219,7 +219,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - Summary 34:20-35:53
 
 
-* [BJC Lecture 16:) Computational Game Theory](https://www.youtube.com/watch?v=iATKQQaTKKY)
+* [BJC Lecture 16: Computational Game Theory](https://www.youtube.com/watch?v=iATKQQaTKKY)
  
  - Checkers (Weakly) Solved 0:00-1:17
  - Computer Science Game Theory 1:20-1:35
@@ -240,13 +240,13 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - Future Application 35:51-36:47
 
 
-* [BJC Lecture 17:) Higher Order Functions ](https://www.youtube.com/watch?v=Xr9dYPH3fw4)
+* [BJC Lecture 17: Higher Order Functions ](https://www.youtube.com/watch?v=Xr9dYPH3fw4)
  - Coding is Cool Again 0:00-0:45
  - High Order Function Introduction 0:47-8:50
  - Higher Order Function Demo in Snap! BYOB (Functions and Blocks are commented out) 8:51-37:35
 
 
-* [BJC Lecture 18:) Distributed Computing](https://www.youtube.com/watch?v=LkkQy6ivbe4)
+* [BJC Lecture 18: Distributed Computing](https://www.youtube.com/watch?v=LkkQy6ivbe4)
  - 0:00-2:25 Super Computers Faster than 50M Laptops
  - Lecture Overview 2:25-3:00
  - Memory Hierarchy 3:00-6:00
